@@ -1,4 +1,4 @@
-# Ejercicios-en-Python
+# Ejercicios-en-Python-3
 
 1.py Programa que acepta una frase y muestra los caracteres que posee la misma y cuantas veces se repiten.
 
