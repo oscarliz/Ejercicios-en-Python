@@ -5,3 +5,7 @@
 
 
 2.py Leer diez numeros enteros, almacenarlos en un vector y determinar cuantos numeros de los almacenados en dicho vector comienzan en tres.
+
+https://www.youtube.com/watch?v=TE_H263hUAY
+
+https://www.youtube.com/watch?v=MXc2NKmOons
